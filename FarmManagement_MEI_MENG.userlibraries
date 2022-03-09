@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.0">
+    <archive path="/Users/yxmei/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar" />
+  </library>
+  <library name="google.code.gson">
+    <archive path="/Users/yxmei/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.0">
+    <archive path="/Users/yxmei/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.0">
+    <archive path="/Users/yxmei/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

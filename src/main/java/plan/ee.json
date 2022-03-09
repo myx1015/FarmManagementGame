@@ -1,0 +1,24 @@
+{
+  "energy" : 8,
+  "dayTab" : [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  "name" : [ "", "", "", "", "", "", "", "Tomato", "", "Carrot", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", null ],
+  "water" : [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+  "fertilize" : [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+  "farm" : {
+    "bag" : {
+      "capacity" : 25
+    }
+  },
+  "pasture" : {
+    "bag" : {
+      "capacity" : 25
+    },
+    "sumCow" : 4,
+    "sumChick" : 3
+  },
+  "bag" : {
+    "capacity" : 25
+  },
+  "g" : 40,
+  "d" : 1
+}
